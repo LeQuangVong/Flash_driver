@@ -1,0 +1,4 @@
+my_FLASH.c:3:6:Flash_Unlock	4	static
+my_FLASH.c:12:6:Flash_Lock	4	static
+my_FLASH.c:16:6:Flash_EraseSector	16	static
+my_FLASH.c:25:6:Flash_Write	16	static
